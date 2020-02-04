@@ -1,0 +1,11 @@
+{
+  "name": "test-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "url": "git://github.com/SynTexDZN/test-module.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
